@@ -32,8 +32,6 @@ Building a 2D physics engine from scratch comes with infamous mathematical hurdl
 
 ## 🚀 How to Build and Run
 1. Clone this repository.
-2. Link the project with SFML include and Lib
-3. Run the Project
 2. Ensure you have **SFML** installed and linked in your C++ IDE (e.g., Visual Studio).
 3. Link the required SFML modules: `sfml-graphics`, `sfml-window`, `sfml-system`, `sfml-audio` (use the `-d` suffix if compiling in Debug mode).
 4. Build and Run!
